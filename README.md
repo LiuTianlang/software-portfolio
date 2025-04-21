@@ -1,23 +1,39 @@
-# AI Software Engineer Portfolio
+## Overview
 
-## 🔧 Projects
+A collection of AI-powered inspection tools and desktop software built for high-efficiency production environments.
 
-### 🧩 Surface Defect Detection (Hybrid 2D+3D)
-- **Tech**: Mask RCNN + Point Cloud Post-Validation
-- **Scale**: 200,000+ units tested, 0% missed defects, <0.4% false alarms
-- **Impact**: Replaced 12 human inspectors in battery production line
-- **Focus**: GPU optimization, deployment readiness
+---
 
-### 🛠 Classification Result Evaluation Tool (PyQt GUI)
-- Keyboard-controlled error tagging (TP/FP/FN)
-- Batch visualization and auto-report export
-- Reduced QA-debugging cycle by 60%
+## Projects
 
-### ⚡ TranAD-Based Signal Anomaly Detection
-- Deep unsupervised learning on high-frequency current curves
-- Enabled early machine failure prediction
+### 🔍 Optical Spot Detection Software  
+**Qt · OpenCV · YOLO · TensorRT**  
+Real-time GUI for defect detection, reducing delay from 1 day to live response.  
+🚀 200K+ samples processed with <0.2% false positives.
 
-## 🧰 Skills Demonstrated
-- Python, PyTorch, C++, OpenCV, PyQt
-- Multithreaded GUI dev, Docker, PyInstaller
-- CV Tooling & ML Evaluation
+---
+
+### 🧵 Multithreaded Debugging Tool  
+**Visual Studio · NumPy**  
+Fixed cross-thread crashes affecting 60+ devices.  
+✅ Saved 10+ hours of weekly downtime.
+
+---
+
+### 🧪 Classification Result Evaluator  
+**PyQt · Pandas**  
+Tagging + reporting tool for model results.  
+📈 Improved validation speed by 85%.
+
+---
+
+### 🔧 Real-Time Diagnosis Pipeline  
+**Client-Server · PyQt · Matplotlib**  
+Deployed on 20+ machines, cut log diagnosis time by 90%.  
+
+---
+
+## About
+
+I design smart, efficient software for AI-integrated visual inspection systems.  
+Feel free to connect via LinkedIn or email.
