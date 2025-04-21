@@ -13,7 +13,7 @@ Real-time GUI for defect detection, reducing delay from 1 day to live response.
 
 ---
 
-### 🧵 Multithreaded Debugging Tool  
+### 🧵 Multithreaded Debugging  
 **Visual Studio · NumPy**  
 Fixed cross-thread crashes affecting 60+ devices.  
 ✅ Saved 10+ hours of weekly downtime.
